@@ -8,8 +8,8 @@ from tkinter import ttk
 # Email server configuration
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'anydeskviewer@gmail.com'
-PASS = 'wqlgbhctphgpozdp'
+FROM = 'email smtp anda'
+PASS = 'password smtp anda'
 
 # Variables for file path, message content, and subject
 file_path = None
